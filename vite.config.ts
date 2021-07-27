@@ -9,7 +9,7 @@ export default defineConfig({
   resolve: {
     // @/ によるimportをできるようにする。
     alias: {
-      '@': path.resolve('__dirname', '/MyPage/src')
+      '@': path.resolve('__dirname', '/src')
     }
   },
   build: {
