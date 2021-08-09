@@ -51,7 +51,7 @@
     <div class="col-md-6 row">
      <postCard class="col" :summary="'Outdoor  hobby'" :title="'Frestyle Fottball'" p-none />
       <div class="col-md content_area">
-        <video alt="freestyle"  autoplay  loop muted src="@/assets/VID_36081025_093034_176.mp4" height="272" width="330" class="img"/>
+        <video alt="freestyle"  controls autoplay  loop muted src="@/assets/VID_36081025_093034_176.mp4" height="272" width="330" class="img"/>
       </div>
     </div>
   </div>
